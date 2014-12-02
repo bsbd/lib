@@ -1,0 +1,61 @@
+c:\users\артём\documents\visual studio 2012\Projects\BD\BD\bin\Debug\BD.exe.config
+c:\users\артём\documents\visual studio 2012\Projects\BD\BD\bin\Debug\BD.exe
+c:\users\артём\documents\visual studio 2012\Projects\BD\BD\bin\Debug\BD.pdb
+c:\users\артём\documents\visual studio 2012\Projects\BD\BD\bin\Debug\Mono.Security.dll
+c:\users\артём\documents\visual studio 2012\Projects\BD\BD\obj\Debug\BD.csprojResolveAssemblyReference.cache
+c:\users\артём\documents\visual studio 2012\Projects\BD\BD\obj\Debug\BD.Form1.resources
+c:\users\артём\documents\visual studio 2012\Projects\BD\BD\obj\Debug\BD.Properties.Resources.resources
+c:\users\артём\documents\visual studio 2012\Projects\BD\BD\obj\Debug\BD.csproj.GenerateResource.Cache
+c:\users\артём\documents\visual studio 2012\Projects\BD\BD\obj\Debug\BD.exe
+c:\users\артём\documents\visual studio 2012\Projects\BD\BD\obj\Debug\BD.pdb
+C:\Users\Артём\Downloads\BD\BD\bin\Debug\BD.exe.config
+C:\Users\Артём\Downloads\BD\BD\obj\Debug\BD.exe
+C:\Users\Артём\Downloads\BD\BD\obj\Debug\BD.pdb
+C:\Users\Артём\Downloads\BD\BD\bin\Debug\BD.exe
+C:\Users\Артём\Downloads\BD\BD\bin\Debug\BD.pdb
+C:\Users\Артём\Downloads\BD\BD\bin\Debug\Mono.Security.dll
+C:\Users\Артём\Downloads\BD\BD\obj\Debug\BD.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Downloads\BD\BD\obj\Debug\BD.Form1.resources
+C:\Users\Артём\Downloads\BD\BD\obj\Debug\BD.Properties.Resources.resources
+C:\Users\Артём\Downloads\BD\BD\obj\Debug\BD.csproj.GenerateResource.Cache
+C:\Users\Артём\Downloads\BD\BD\obj\Debug\BD.Form2.resources
+C:\Users\Артём\Documents\BD\BD\bin\Debug\BD.exe.config
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD.exe
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD.pdb
+C:\Users\Артём\Documents\BD\BD\bin\Debug\BD.exe
+C:\Users\Артём\Documents\BD\BD\bin\Debug\BD.pdb
+C:\Users\Артём\Documents\BD\BD\bin\Debug\Mono.Security.dll
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD.csproj.GenerateResource.Cache
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD2.Autorization.resources
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD2.Readership.resources
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD2.Tables.resources
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD2.Properties.Resources.resources
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD2.Readership_info.resources
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD3.Librarians.resources
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD4.Filials.resources
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD5.Books.resources
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD6.Books_info.resources
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD7.Get_books.resources
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD8.Sessions.resources
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD9.Stats.resources
+D:\Учёба\БСБД\Курсовая\BD\BD\bin\Debug\BD.exe.config
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD.exe
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD.pdb
+D:\Учёба\БСБД\Курсовая\BD\BD\bin\Debug\BD.exe
+D:\Учёба\БСБД\Курсовая\BD\BD\bin\Debug\BD.pdb
+D:\Учёба\БСБД\Курсовая\BD\BD\bin\Debug\Mono.Security.dll
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD.csprojResolveAssemblyReference.cache
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD2.Autorization.resources
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD2.Readership.resources
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD2.Tables.resources
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD2.Properties.Resources.resources
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD2.Readership_info.resources
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD3.Librarians.resources
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD4.Filials.resources
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD5.Books.resources
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD6.Books_info.resources
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD7.Get_books.resources
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD8.Sessions.resources
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD9.Stats.resources
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD.csproj.GenerateResource.Cache
